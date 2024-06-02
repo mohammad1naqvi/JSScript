@@ -1,0 +1,10 @@
+let score = "22";
+console.log(typeof score);
+let scoreAsNumber = Number(score);
+console.log(typeof scoreAsNumber);
+console.log(scoreAsNumber);
+console.log(typeof NAN);
+let age = 1;
+let isMarried = Boolean(age);
+console.log(typeof isMarried);
+console.log(isMarried);
